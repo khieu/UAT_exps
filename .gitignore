@@ -1,0 +1,4 @@
+test_trainer
+test_trainer/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
