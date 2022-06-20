@@ -7,6 +7,9 @@
 
 
 - (2) adversarial data filtering from MASSIVE training set (using training set as unlabeled data)
+    - Using [sentence transformers/paraphrase-multilingual-miniLM](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) to get sentence embeddings
+    - running FAISS search and/or cosine similarities on the embeddings
+
 
 
 
